@@ -94,7 +94,7 @@
 
 ## 5. 핵심 기능
 
-![image](https://user-images.githubusercontent.com/88760828/183607462-9eec02d6-7756-4161-bbc3-7da1a4a5a107.png)
+![image](https://user-images.githubusercontent.com/88760828/183629016-c8a96eba-ac94-41a6-a687-45c17b7f4d6b.png)
 
  
 
