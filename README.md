@@ -88,9 +88,10 @@
 
  
 
-## 4. 아키텍처
+## 4. 아키텍처도
 
- 
+ <img width="449" alt="스크린샷 2022-08-22 오후 5 09 25" src="https://user-images.githubusercontent.com/84092014/185903100-e9a46b4e-446f-49a4-8506-c7e5ac2fd5f3.png">
+
 
 ## 5. 핵심 기능
 
