@@ -82,9 +82,8 @@
 
  
 
-## 3. ERD 설계
-
-![image](https://user-images.githubusercontent.com/88760828/183607324-1d515a22-c9db-407b-83ee-bd3b66a5aa99.png)
+## 3. Data Model Design - Embedded Data Models
+![스크린샷 2022-08-23 오후 4 10 08](https://user-images.githubusercontent.com/84092014/186093938-82cad1f7-d0c1-4178-8a6e-34bc821da8c3.png)
 
  
 
