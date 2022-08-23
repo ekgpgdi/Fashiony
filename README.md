@@ -104,7 +104,7 @@
 ## 6. 핵심 트러블 슈팅 
 1. git 충돌
 > * 각 다른 github 사용으로 인한 충돌 발생 - git 사용 정의에 대한 필요성을 느낌 
-> * [당시 TIL](https://ddori-lee.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80-%ED%81%B4%EB%9[…]0%EB%8B%88%EC%96%B4-%EC%BA%A0%ED%94%84-D2?category=1017057) 
+> * [당시 TIL](https://ddori-lee.tistory.com/entry/%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%BA%A0%ED%94%84-D2) 
 > * 미리보기 
 >
 > ![스크린샷 2022-08-23 오전 11 59 59](https://user-images.githubusercontent.com/84092014/186059862-3bdc59ff-e43c-4858-9719-242f44ad1cea.png)
