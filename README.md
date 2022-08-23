@@ -52,7 +52,7 @@
 
 <br/>
 
- 
+ <br/>
 
 ## 2. 사용 기술 
 
@@ -83,22 +83,29 @@
 - JavaScript
 
  
-
+<br/>
+ <br/>
+ 
 ## 3. Data Model Design - Embedded Data Models
 ![스크린샷 2022-08-23 오후 4 10 08](https://user-images.githubusercontent.com/84092014/186093938-82cad1f7-d0c1-4178-8a6e-34bc821da8c3.png)
-
+<br/>
  
-
+ 
+<br/>
+ 
 ## 4. 아키텍처도
 
  <img width="449" alt="스크린샷 2022-08-22 오후 5 09 25" src="https://user-images.githubusercontent.com/84092014/185903100-e9a46b4e-446f-49a4-8506-c7e5ac2fd5f3.png">
 
-
+<br/>
+ <br/>
+ 
 ## 5. 핵심 기능
 
 ![image](https://user-images.githubusercontent.com/88760828/183629016-c8a96eba-ac94-41a6-a687-45c17b7f4d6b.png)
 
- 
+ <br/>
+ <br/>
 
  
 
