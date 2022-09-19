@@ -55,12 +55,11 @@
  <br/>
 
 ## 2. 사용 기술 
-
-- Python 3.8
-
  
 
 <b>```Back-end```<b/>
+
+- Python 3.8
 
 - Flask
 
